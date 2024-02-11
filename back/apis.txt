@@ -1,0 +1,21 @@
+All variables will be sent in the request body
+
+List of APIs:
+    - add-user(name, phone_number, email, password_hash, canvas_token) 
+    - login(email, password_hash)
+    - get-user-info()
+
+    - get-calendar-events(start_date, end_date), dates are yyyy-mm-dd
+    - add-calendar-event(event), event (json object): title, description, start_date, end_date, priority
+    - remove-calendar-event(event_id), 
+
+    - increase-score(score_increase)
+    - get-leaderboard(n), return top n people
+
+    - add-flashcard-set(title, description)
+    - get-flashcard-sets(), 
+    - get-flashcard-set(set_id), 
+    - remove-flashcard-set(set_id)
+    - add-flashcard(set_id, question, answer)
+    - is-answer-correct(flashcard_id, user_answer)
+

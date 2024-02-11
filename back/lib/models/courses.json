@@ -1,0 +1,242 @@
+[
+    {
+        "class_name": "C S 1213",
+        "description": "Programming for Non-Majors with Python. 3 Credit Hours. \nPrerequisite: Mathematics 1503 or concurrent enrollment. Introduction to the design and implementation of computer programs in the language Python. We will cover data types, control flow, iterations, functions, and the use of external libraries for text processing, graphics, image manipulation, web programming and others. Emphasis on problem solving with examples drawn from diverse disciplines. (F, Sp)"
+    },
+    {
+        "class_name": "C S 1313",
+        "description": "Programming for Non-Majors with C. 3 Credit Hours. \nPrerequisite: MATH 1523 or concurrent enrollment. Introduction to the design and implementation of computer programs. Emphasis on problem solving. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, loops, procedures and functions, arrays, standard libraries, input and output, structures, and program documentation. (F, Sp)"
+    },
+    {
+        "class_name": "C S 1323",
+        "description": "Introduction to Computer Programming for Programmers. 3 Credit Hours. \nPrerequisite: MATH 1523 or concurrent enrollment; or placement into MATH 1743 or MATH 1823 or higher and department permission. Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with some prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334. (F, Sp)"
+    },
+    {
+        "class_name": "C S 1324",
+        "description": "Introduction to Computer Programming for Non-Programmers. 4 Credit Hours. \nPrerequisite: Math 1523 or concurrent enrollment; or placement into Math 1743 or Math 1823 or higher and departmental permission. Introduction to the design and implementation of computer software with an emphasis on abstraction and program organization for students with no prior programming experience. Topics include: variables and constants, arithmetic and Boolean expressions, conditional statements, repetition, methods, arrays, linear and binary search, basic sorting algorithms, object-oriented programming, documentation, and testing. Students may not take this class after passing CS 2334. (F, Sp)"
+    },
+    {
+        "class_name": "C S 2334",
+        "description": "Programming Structures and Abstractions. 4 Credit Hours. \nPrerequisite: C S 1323 or 1321 or 1324, and MATH 1523 or higher. The design and implementation of computer programs using disciplined methodologies. Use of several abstract data types. Software reuse through encapsulation, composition, aggregation, inheritance, polymorphism, and generics. Topics include recursion, GUI development, file processing, and unit testing. A program design tool will be used. Introduction to ethics in computer science, including philosophical ethics theories. Discussion of intellectual property rights and privacy. (F, Sp)"
+    },
+    {
+        "class_name": "C S 2413",
+        "description": "Data Structures. 3 Credit Hours. \nPrerequisite: C S 2334 and MATH 1823 or 1914; and C S 2813 or MATH 2513, or concurrent enrollment in C S 2813 or MATH 2513. Representation, analysis and implementation of data structures and associated algorithms including: algorithm complexity, sorting algorithms, lists, stacks, queues, search trees (AVL, Red-Black, Splay, 2-3), Heaps, Graphs, and Hashing. Written communications required in some projects. Ethical issues and tools and techniques used in writing secure applications will also be discussed. The primary programming language is C++ with a debugging tool. (F, Sp)"
+    },
+    {
+        "class_name": "C S 2614",
+        "description": "Computer Organization. 4 Credit Hours. \nPrerequisite: CS 2334. An introduction to the architecture, organization and design of uniprocessor-based computer systems. Topics include processor, control and memory design and organization, pipelining and vector processing, computer arithmetic, I/O organization, and computer systems security. (F, Sp)"
+    },
+    {
+        "class_name": "C S 2813",
+        "description": "Discrete Structures. 3 Credit Hours. \nPrerequisite: C S 2334; MATH 2423 or MATH 2924 as prerequisite or concurrent enrollment. Introduction to the theory of discrete structures useful in computer science. Topics include combinatorics, relations, functions, computational complexity, recurrences, and graph theory. (F, Sp)"
+    },
+    {
+        "class_name": "C S 3113",
+        "description": "Introduction to Operating Systems. 3 Credit Hours. \nPrerequisite: C S 2413 and C S 2813 or MATH 2513, and C S 2614 or ECE 2214. An introduction to the major concepts and techniques of designing and implementing operating systems including: memory management, process management, information management, and computer security. Principles of performance evaluation. Class projects require the design and implementation of software systems. A UNIX family operating system will be used. (F)"
+    },
+    {
+        "class_name": "C S 3203",
+        "description": "Software Engineering. 3 Credit Hours. \nPrerequisite: C S 2413, and C S 2813 or MATH 2513. Methods and tools for software specification, design, and documentation. Emphasis on architectural modularity, encapsulation of software objects, and software development processes such as design review, code inspection, and defect tracking. Students apply these ideas to design and document software products. Study of professional ethics, responsibility, legal issues. No student may obtain credit for CS 3203 and C S 5213. (F)"
+    },
+    {
+        "class_name": "C S 3323",
+        "description": "Principles of Programming Languages. 3 Credit Hours. \nPrerequisite: C S 2413, and C S 2813 or MATH 2513, and ENGL 3153 or BC 2813 or ENGR 2002 as a prerequisite or concurrent enrollment. An introduction to theoretical foundations and paradigms of programming languages. Topics include basic concepts such as lexical analysis, syntax analysis, type systems and semantics, some practical issues such as memory management and exception handling, and programming paradigms such as imperative programming, object-oriented programming, functional programming and scripting. (Sp)"
+    },
+    {
+        "class_name": "C S 3440",
+        "description": "Mentored Research Experience. 3 Credit Hours. \n0 to 3 hours. Prerequisite: CS 2413 and CS 2813 or Math 2513 and permission of instructor; May be repeated, maximum credit 12 hours. For the inquisitive student to apply the scholarly processes of the discipline to a research or creative project under the mentorship of a faculty member. Student and instructor should complete an Undergraduate Research & Creative Projects (URCP) Mentoring Agreement and file it with the URCP office. Not for honors credit. (F, Sp, Su)"
+    },
+    {
+        "class_name": "C S 3823",
+        "description": "Theory of Computation. 3 Credit Hours. \nPrerequisite: CS 2413 and CS 2813 or MATH 2513 or CS 5005 or DSA 5005. Introduction to abstract machine theory and formal language theory. Topics include Turing machines, finite/pushdown automata, deterministic versus nondeterministic computations, context-free grammars, and mathematical properties of these systems. (F)"
+    },
+    {
+        "class_name": "C S 4013",
+        "description": "Artificial Intelligence. 3 Credit Hours. \n(Slashlisted with C S 5013) Prerequisite: CS 2413 or CS 5005, and CS 2813 or CS 4005 or MATH 2513. Study of the methods of search, knowledge representation, heuristics, and other aspects of automating the solution of problems requiring intelligence. No student may earn credit for both 4013 and 5013. (Sp)"
+    },
+    {
+        "class_name": "C S 4023",
+        "description": "Introduction to Intelligent Robotics. 3 Credit Hours. \n(Slashlisted with C S 5023) Prerequisite: C S 2413, and C S 2813 or MATH 2513. History of intelligent robotics; functional models approach; reactive robots; ethology for robotics; architectures and methodologies; implementation; sensing; hybrid deliberative/reactive robotics; multi-robot systems; navigation; topological path planning; metric path planning; localization and mapping. No student may earn credit for both 4023 and 5023. (F)"
+    },
+    {
+        "class_name": "C S 4033",
+        "description": "Machine Learning Fundamentals. 3 Credit Hours. \n(Slashlisted with C S 5033) Prerequisites: C S 2413, and C S 2813 or MATH 2513, and MATH 4753 or ISE 3293 or MATH 4743, and MATH 3333, and MATH 3113 or MATH 3413. Topics include decision trees, relational learning, neural networks, Bayesian learning, reinforcement learning, multiple-instance learning, feature selection, learning appropriate representations, clustering, and kernel methods. No student may earn credit for both 4033 and 5033. (F)"
+    },
+    {
+        "class_name": "C S 4053",
+        "description": "Computer Graphics. 3 Credit Hours. \n(Slashlisted with C S 5053) Prerequisite: C S 2413, and C S 2813 or MATH 2513, and MATH 3333. An introduction to computer graphics. Topics include coordinate systems, transformations, rendering in both two and three dimensions, and graphical programming. No student may earn credit for both 4053 and 5053. (F)"
+    },
+    {
+        "class_name": "C S 4063",
+        "description": "Human Computer Interaction. 3 Credit Hours. \n(Slashlisted with CS 5063) Prerequisite: C S 2413, and C S 2813 or MATH 2513. An introduction to human-computer interaction and graphical user interfaces. Topics include principles of human-computer interaction, human perceptual and cognitive abilities, user interface analysis and design, window systems, and social implications of computing. Current user interface programming tools will be described and used. Oral presentations are required for some assignments. No student may earn credit for both 4063 and 5063. (Sp)"
+    },
+    {
+        "class_name": "C S 4113",
+        "description": "Distributed Operating Systems. 3 Credit Hours. \n(Slashlisted with C S 5113) Prerequisite: C S 3113, and Mathematics 4753 or Industrial Engineering 3293 or Mathematics 4743 or Engineering 3293. Continuation of study from 3113. Advanced topics and examples and simulation techniques used in performance evaluation. No student may earn credit for both 4113 and 5113. (Sp)"
+    },
+    {
+        "class_name": "C S 4133",
+        "description": "Data Networks. 3 Credit Hours. \n(Slashlisted with 5133) Prerequisite: 3113 or permission of instructor. Comprehensive treatment of data networking principles including: layered protocol design and their functions, tools for performance analysis, multi-access communication, routing and flow control. No student may earn credit for both 4133 and 5133. (F)"
+    },
+    {
+        "class_name": "C S 4173",
+        "description": "Computer Security. 3 Credit Hours. \n(Slashlisted with C S 5173) Prerequisite: CS 3113. An introduction to computer security. Topics include applied cryptography, access control, programming and software security, operating system security, network security protocols, and the legal and ethical aspects of security software. (F)"
+    },
+    {
+        "class_name": "C S 4273",
+        "description": "Capstone Design Project. 3 Credit Hours. \nPrerequisite: C S 3203, and C S major or C S minor. Methods and tools for software development, testing, and delivery. Emphasis on data abstraction and reusable components. Students working in teams implement a significant software product, including design documents, user's guide, and process reports. Students will practice oral/written communication skills. Study of professional social issues and responsibilities. No student may obtain credit for C S 4273 and C S 5213. (Sp) [V]."
+    },
+    {
+        "class_name": "C S 4281",
+        "description": "Engineering Co-Op Program.1 Credit Hour.\n\n(Crosslisted with AME, CH E, CEES, ECE, EPHY, ISE and BME 4281) Prerequisite: Departmental permission and junior standing. May be repeated; maximum credit 6 hours. The Co-Op program provides students an opportunity to enhance their education via career exploration in related professional work experiences. Course assignments help students articulate their experiences by completing journals; mid-term paper; final paper and/or final presentation. Faculty receive an evaluation from the student's Co-Op supervisor who monitors performance. Faculty collaborate with the Co-Op supervisor to ensure student success. (F, Sp, Su)\nC S G4323. Compiler Construction. 3 Credit Hours. \nPrerequisite: 2413 and 3823. Introduction to the theory and implementation of programming language compilers and interpreters. Class projects require the design of medium scale software systems. (Sp)"
+    },
+    {
+        "class_name": "C S 4410",
+        "description": "Programming Competition. 0 Credit Hours. \nPrerequisite: Permission of Instructor. Prepare students to participate in regional, national, and international computer programming competitions. Students will work in teams to solve challenging computer programming problems. (F, Sp)\nC S G4413. Algorithm Analysis.3 Credit Hours.\n\n(Crosslisted with DSA 4413) Prerequisites: C S 2413 and C S 2813; or MATH 2513; or C S 5005. Design and analysis of algorithms and measurement of their complexity. This course introduces various algorithm design strategies: divide and conquer, greedy principle and dynamic programming to solve a variety of problems using algorithms of various types - deterministic and randomized, serial and parallel, centralized and decentralized, program based and circuit based. (F)"
+    },
+    {
+        "class_name": "C S 4433",
+        "description": "Computational Methods in Discrete Optimization. 3 Credit Hours. \n(Slashlisted with C S 5433) Prerequisite: MATH 3333 and C S 4413 or concurrent enrollment in 4413. Linear programming: simplex method for LP problems, degeneracy and anticycling strategies, duality theory and complementary slackness conditions, revised simplex method, sensitivity analysis and simplex method for general LP problems. Network optimization: the transshipment problem, network simplex method, shortest path algorithms, the maximum flow problem, and the primal dual method. No student may earn credit for both 4433 and 5433. (F, Sp)"
+    },
+    {
+        "class_name": "C S 4473",
+        "description": "Parallel, Distributed, and Network Programming. 3 Credit Hours. \n(Slashlisted with C S 5473) Prerequisite: CS 3113 and CS 4413. Parallel and distributed architectures, algorithms, programming paradigms and network communication protocols and programming. Topics include asynchronous/synchronous computation, GPU architectures, load balancing, memory hierarchies, other parallel and distributed models of computation, concepts about computer networks, including internet protocol stack and internet architecture, and socket programming using TCP and UDP. No student may earn credit for both 4473 and 5473. (Sp)\nC S G4513. Database Management Systems.3 Credit Hours.\n\n(Crosslisted with DSA 4513) Prerequisites: C S 2413 and C S 2813; or MATH 2513; or C S 5005. The design and implementation of a DBMS including data models, query languages, entity-relationship diagrams, functional dependencies, normalization, storage structures, access methods, query processing, security and transaction management, and applications. The impact of databases on individuals, organizations, and society, and legal and professional responsibilities including security and privacy will be discussed. A commercial DBMS is used. Students practice written communication skills. (F)\nC S G4613. Computer Architecture.3 Credit Hours.\n\n(Crosslisted with ECE 4613) Prerequisite: ECE 3223 or C S 2614 or C S 2613. Covers basic concepts of computer system design and communication between components, along with current and historical examples of computer architecture. (F, Sp)"
+    },
+    {
+        "class_name": "C S 4743",
+        "description": "Scientific Computing I. 3 Credit Hours. \n(Slashlisted with C S 5743) Prerequisite: MATH 3333. Interaction between applications, architectures, and algorithms. Review of linear algebra, serial, pipelined vector processors, cluster of processors. Measures of proformance of parallel algorithms. Parallel algorithms for the solution of linear systems. No student may earn credit for both 4743 and 5743. (F)"
+    },
+    {
+        "class_name": "C S 4823",
+        "description": "Cryptography. 3 Credit Hours. \n(Slashlisted with 5823) Prerequisite: 3823 and 4413. Elementary number theory, time complexity for doing arithmetic, finite fields, RSA, discrete logarithm and Diffie-Hellman, zero-knowledge protocols and oblivious transfer. Basic elliptic curve cryptosystems, elliptic curve factorization and primality proving. No student may earn credit for both 4823 and 5823. (Sp)"
+    },
+    {
+        "class_name": "C S 4973",
+        "description": "Special Topics. 3 Credit Hours. \nPrerequisite: 2413 and permission of instructor. May be repeated with change of subject matter; maximum credit nine hours. A special topics course necessitated by the rapidly changing nature of computer sciences. Topics offered under this number will be accepted as approved Computer Science electives for Computer Science majors. (Irreg.)"
+    },
+    {
+        "class_name": "C S 5005",
+        "description": "Computing Structures. 5 Credit Hours. \n(Crosslisted with DSA 5005) Prerequisite: CS 2334, MATH 1914 or MATH 1823 or with permission of graduate liaison. This course has three parts: discrete mathematics, object-oriented programming in C++, and data structures in C++. As part of the discrete mathematics students will be introduced to combinatorics, logic, relations, functions, computational complexity, automata, and graph theory. Students will be introduced to the fundamentals of object-oriented programming and learn to design, build, and analyze data structures using object-oriented principles and techniques. Credit hours earned for this course cannot be used to fulfill degree requirements for the B.S., M.S. or Ph.D. programs in computer science. (Irreg.)"
+    },
+    {
+        "class_name": "C S 5013",
+        "description": "Artificial Intelligence. 3 Credit Hours. \n(Slashlisted with C S 4013) Prerequisite: graduate standing and C S 2413 or C S 5005, and C S 2813 or C S 4005 or MATH 2513. Study of the methods of search, knowledge representation, heuristics, and other aspects of automating the solution of problems requiring intelligence. No student may earn credit for both 4013 and 5013. (Sp)"
+    },
+    {
+        "class_name": "C S 5023",
+        "description": "Introduction to Intelligent Robotics. 3 Credit Hours. \n(Slashlisted with C S 4023) Prerequisite: graduate standing and C S 2413, and C S 2813 or MATH 2513. History of intelligent robotics; functional models approach; reactive robots; ethology for robotics; architectures and methodologies; implementation; sensing; hybrid deliberative/reactive robotics; multi-robot systems; navigation; topological path planning; metric path planning; localization and mapping. No student may earn credit for both 4023 and 5023. (F)"
+    },
+    {
+        "class_name": "C S 5033",
+        "description": "Machine Learning Fundamentals. 3 Credit Hours. \n(Slashlisted with C S 4033) Prerequisite: Graduate standing and C S 2413; C S 2813 or MATH 2513; MATH 4753 or ISE 3293 or MATH 4743; MATH 3333; and MATH 3113 or MATH 3413. Topics include decision trees, relational learning, neural networks, Bayesian learning, reinforcement learning, multiple-instance learning, feature selection, learning appropriate representations, clustering, and kernel methods. No student may earn credit for both 4033 and 5033. (F)"
+    },
+    {
+        "class_name": "C S 5043",
+        "description": "Advanced Machine Learning. 3 Credit Hours. \nPrerequisite: Graduate standing; MATH 3333; MATH 4743 or MATH 4753 or ENGR 3293 or ISE 3293; and C S 4033/5033 or C S 5073; or permission of the instructor. Topics include deep learning, deep networks, convolutional neural networks, recurrent neural networks, transformers, autoencoders, generative adversarial networks, and explainable deep learning. (Irreg.)"
+    },
+    {
+        "class_name": "C S 5053",
+        "description": "Computer Graphics. 3 Credit Hours. \n(Slashlisted with C S 4053) Prerequisite: graduate standing and C S 2413, and C S 2813 or MATH 2513, and MATH 3333. An introduction to computer graphics. Topics include coordinate systems, transformations, rendering in both two and three dimensions, and graphical programming. No student may earn credit for both 4053 and 5053. (F)"
+    },
+    {
+        "class_name": "C S 5063",
+        "description": "Human Computer Interaction. 3 Credit Hours. \n(Slashlisted with CS 4063) Prerequisite: Graduate standing and C S 2413, and C S 2813 or MATH 2513; or departmental permission. An introduction to human computer interaction and graphical user interfaces. Topics include principles of human computer interaction, human perceptual and cognitive abilities, user interface analysis and design, window systems, and social implications of computing. Current user interface programming tools will be described and used. Oral presentations are required for some assignments. No student may earn credit for both 4063 and 5063. (Sp)"
+    },
+    {
+        "class_name": "C S 5073",
+        "description": "Artificial Neural Networks Evolution. 3 Credit Hours. \nPrerequisite: CS 2413 and CS 2813, or CS 5005, and MATH 3333. Overview of computational intelligence and artificial evolution, artificial neural networks and artificial evolution, introduction to artificial life and neuro-evolution, and evolutionary robotics. (F)"
+    },
+    {
+        "class_name": "C S 5093",
+        "description": "Visual Analytics. 3 Credit Hours. \nPrerequisite: permission of instructor. Exploration and analysis of complex information through visual interactive computational tools and techniques. Topics include analytic reasoning, sense-making, knowledge dissemination, data representation and transformation, visual abstraction, coordinated interaction, visual query languages, spatiotemporal visualization, and applications of visual analysis. (Sp)"
+    },
+    {
+        "class_name": "C S 5113",
+        "description": "Distributed Operating Systems. 3 Credit Hours. \n(Slashlisted with C S 4113) Prerequisite: Graduate standing, C S 3113; and MATH 4753, ISE 3293, or MATH 4743. Advanced topics, examples, and simulation techniques used in performance evaluation. No student may earn credit for both 4113 and 5113. (Sp)"
+    },
+    {
+        "class_name": "C S 5133",
+        "description": "Data Networks. 3 Credit Hours. \n(Slashlisted with 4133) Prerequisite: 3113 or 5004 or permission of instructor. Comprehensive treatment of data networking principles including: layered protocol designs and their functions, tools for performance analysis, multi-access communication, routing and flow control. No student may earn credit for both 4133 and 5133. (F)"
+    },
+    {
+        "class_name": "C S 5143",
+        "description": "Network Design and Management. 3 Credit Hours. \nPrerequisite: 4133 or 5133, or equivalent. Basic concepts in networks; modeling and evaluation techniques; network analysis: delay, loss and throughput, centralized network design; distributed network design, network reliability; applications to local area wireless, wide area, multi-service networking, etc.; network management: SNMP, OSI management, distributed network management and architectures. (Sp)"
+    },
+    {
+        "class_name": "C S 5173",
+        "description": "Computer Security. 3 Credit Hours. \n(Slashlisted with C S 4173) Prerequisite: CS 3113. An introduction to computer security. Topics include applied cryptography, access control, programming and software security, operating system security, network security protocols, and the legal and ethical aspects of security software (F)"
+    },
+    {
+        "class_name": "C S 5213",
+        "description": "Software Engineering Processes. 3 Credit Hours. \nPrerequisite: graduate standing, C S 3113 or C S 3823 or C S 5005. No student may obtain credit for C S 4263 or C S 4273 and CS 5213. Effective processes for software requirements specification, planning, design, documentation, development, review, defect tracking, testing, product delivery, and product evaluation. Emphasis on resource tracking and software quality. Students work in teams to develop, deliver, and evaluate software products. (Sp)"
+    },
+    {
+        "class_name": "C S 5293",
+        "description": "Text Analytics. 3 Credit Hours. \nPrerequisite: C S 2413 or C S 5005; CS 2813 or MATH 2513; and MATH 4743 or MATH 4753 or ISE 3293 or ISE 5013. The course covers the design and implementation of algorithms to extract useful knowledge from text to support decision making, including methods to obtain data sets, understanding data formats, detecting duplicates, cleaning data sets, tagging, indexing, search, evaluating algorithms, classification, clustering, topic modeling, and entity resolution. (Sp)"
+    },
+    {
+        "class_name": "C S 5413",
+        "description": "Computational Complexity. 3 Credit Hours. \nPrerequisite: 4413 and 3823 or 5813. Computational complexity theory dealing with various models of computation and a detailed analysis of P and NP hard problems. (Sp)"
+    },
+    {
+        "class_name": "C S 5433",
+        "description": "Computational Methods in Discrete Optimization. 3 Credit Hours. \n(Slashlisted with C S 4433) Prerequisite: MATH 3333 and C S 4413 or concurrent enrollment in 4413. Linear programming: simplex method for LP problems, degeneracy and anticycling strategies, duality theory and complementary slackness conditions, revised simplex method, sensitivity analysis and simplex method for general LP problems. Network optimization: the transshipment problem, network simplex method, shortest path algorithms, the maximum flow problem, and the primal dual method. No student may earn credit for both 4433 and 5433. (F)"
+    },
+    {
+        "class_name": "C S 5443",
+        "description": "Advanced Discrete Optimization and Networks. 3 Credit Hours. \nPrerequisite: 4413. Review of basic algorithm techniques: DFS, BFS, shortest paths, min-cost spanning tree, etc.; maximum flow problem: labeling and preflow-push algorithms, maximum flow in unit capacity networks and complexity analysis; min cost-flow problems: duality theory, network simplex, primal-dual and relaxation methods; matching: bipartite matching, weighted matching and optimum assignment problems; connectivity: biconnectivity and K-connectivity algorithms; heuristics and approximation algorithms; applications: network design, network reliability and Q0s routing etc. (Sp)"
+    },
+    {
+        "class_name": "C S 5463",
+        "description": "Advanced Computer Architecture. 3 Credit Hours. \n(Crosslisted with ECE 5463) Prerequisite: C S 4613. The design of modern programmable computer systems with emphases on exploiting parallelism at all levels, designing within constraints, including energy consumption, and the impact of architecture on software design. Covers state of the art computer architecture, case studies and trends. (Sp)"
+    },
+    {
+        "class_name": "C S 5473",
+        "description": "Parallel, Distributed, and Network Programming. 3 Credit Hours. \n(Slashlisted with C S 4473) Prerequisite: Graduate standing, C S 3113, and C S 4413. Parallel and distributed architectures, algorithms, programming paradigms and network communication protocols and programming. Topics include asynchronous/synchronous computation, GPU architectures, load balancing, memory hierarchies, other parallel and distributed models of computation, concepts about computer networks, including internet protocol stack and internet architecture, and socket programming using TCP and UDP. No student may earn credit for both 4473 and 5473. (Sp)"
+    },
+    {
+        "class_name": "C S 5483",
+        "description": "Network Science. 3 Credit Hours. \nPrerequisite: C S 4413 or DSA 4413 or permission of instructor. Topics to be covered include fundamental algorithms for network analysis, investigating properties of networks, learning community detection methods, understanding network inference methods, understanding dynamics of networks, percolation, resilience, spreading phenomenon, social influence, and cascades. A variety of application contexts will be used, including physical, informational, biological, cognitive, and social systems. (F)"
+    },
+    {
+        "class_name": "C S 5513",
+        "description": "Advanced Database Management. 3 Credit Hours. \nPrerequisite: 4513. An advanced course dealing with both current database applied research subjects and theoretical aspects of relational databases. Selected topics such as distributed databases, object-oriented databases, real-time databases, and multimedia databases will be discussed. (Sp)"
+    },
+    {
+        "class_name": "C S 5593",
+        "description": "Data Mining. 3 Credit Hours. \nPrerequisite: graduate standing and permission from the instructor or department. Covers the process, concepts and techniques in data mining, including advanced techniques that deal with Big Data. It provides students with the necessary background to conduct data mining tasks for real world problems. The topics covered include understanding and preprocessing data, classification, association analysis, cluster analysis, anomaly detection, and Big Data mining. (F)"
+    },
+    {
+        "class_name": "C S 5613",
+        "description": "Computer Networks and Distributed Processing. 3 Credit Hours. \nPrerequisite: 4613. Provides a comprehensive treatment of the analysis and design of computer networks. Data communication techniques and distributed processing in a network architecture will be examined. (Sp)"
+    },
+    {
+        "class_name": "C S 5703",
+        "description": "Machine Learning Practice. 3 Credit Hours. \n(Crosslisted with DSA 5703) Prerequisite: Graduate standing; C S 4013/5013, C S 5593, ISE/DSA 5103; or permission of instructor. Machine learning is the data-driven process of constructing mathematical models that can be predictive of data observed in the future. In this course, we will study the use of a range of supervised, semi-supervised and unsupervised methods to solve both classification and regression problems. (F)"
+    },
+    {
+        "class_name": "C S 5713",
+        "description": "Computational Learning Theory. 3 Credit Hours. \nPrerequisite: Departmental Permission and C S 4413 or DSA 4413. Topics of machine learning theory. Learning using membership queries, equivalence queries, version spaces, decision trees, perceptrons. Probably approximately correct (PAC) learning, Occam algorithms, VC-dimension, sample sizes for distribution-independent learning. Representation issues, proper learning, reductions, intractability, learning in the realizable case, agnostic learning. Noise models, statistical queries, PAC learning under noise. Adversarially robust learning against poisoning attacks and against adversarial examples. (F)"
+    },
+    {
+        "class_name": "C S 5743",
+        "description": "Scientific Computing I. 3 Credit Hours. \n(Slashlisted with C S 4743) Prerequisite: graduate standing and MATH 3333 and AME 3723 or MATH 4073 or ENGR 3723 or C S 3723. Interaction between applications, architectures, and algorithms. Review of linear algebra, serial, pipelined vector processors, cluster of processors. Measures of proformance of parallel algorithms. Parallel algorithms for the solution of linear systems. No student may earn credit for both 4743 and 5743. (F)"
+    },
+    {
+        "class_name": "C S 5753",
+        "description": "Scientific Computing II. 3 Credit Hours. \nPrerequisite: 5743. Special research topics in scientific computing. Possible topics include optimization algorithms, time series modeling, Kalman filtering techniques, and multivariate statistical techniques. (Sp)"
+    },
+    {
+        "class_name": "C S 5813",
+        "description": "Formal Languages. 3 Credit Hours. \nPrerequisite: 3823. Theory of formal languages. Mathematical modeling of natural or artificial objects, events, and phenomena. Topics include systems for linear/nonlinear objects, their language-theoretical properties, and the related machine theory. (F)"
+    },
+    {
+        "class_name": "C S 5823",
+        "description": "Cryptography. 3 Credit Hours. \n(Slashlisted with 4823) Prerequisite: 3823 and 4413. Elementary number theory, time complexity for doing arithmetic, finite fields, RSA, discrete logarithm and Diffie-Hellman, zero-knowledge protocols and oblivious transfer. Basic elliptic curve cryptosystems, elliptic curve factorization and primality proving. No student may earn credit for both 4823 and 5823. (Sp)"
+    },
+    {
+        "class_name": "C S 5833",
+        "description": "Blockchains & Cryptocurrencies. 3 Credit Hours. \nPrerequisite: Departmental Permission and C S 3823 or C S 4413. This course attempts to bridge the gap in the technical understanding of blockchain architectures and their applications as a currency. Specifically, this course will address the following fundamental questions and more: How does Bitcoin work and what makes it different? How secure are Bitcoins? How anonymous are Bitcoin users? What applications can be built using Bitcoin as a platform? (Sp)"
+    }
+]
