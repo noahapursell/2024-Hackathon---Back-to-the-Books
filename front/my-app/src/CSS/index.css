@@ -1,0 +1,51 @@
+@font-face {
+  font-family: 'PublicPixel';
+  src: url('../assets/PublicPixel-z84yD.ttf') format('truetype');
+}
+
+*{
+  font-family: PublicPixel;
+  
+}
+
+body { 
+  margin: 0;
+  background-image: radial-gradient(circle, #20062D,#090C1A);
+  color: white;
+}
+
+h1 {
+  background: linear-gradient(#F1BC00 70%, #F18200 70%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  margin-bottom: 5vh;
+  font-size: 2vw;
+}
+
+input {
+  border-color: #F1BC00;
+  border-radius: 7%;
+  background-color: transparent;
+  color: #F1BC00;
+  font-family: PublicPixel;
+  margin: 10px;
+  padding: 7px;
+  outline: none;
+}
+
+label {
+  color: #F1BC00;
+  font-size: 1vw;
+}
+
+button {
+  background: linear-gradient(#F1BC00, #F18200);
+  border: none;
+  border-radius: 10%;
+}
+
+Link {
+  text-decoration: none;
+}
+

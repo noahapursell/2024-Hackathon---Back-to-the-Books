@@ -1,0 +1,23 @@
+::-webkit-scrollbar {
+    width: 10px; /* Width of the scrollbar */
+    background-color: transparent; /* Transparent background */
+}
+::-webkit-scrollbar-thumb {
+    background-color: #F1820050 ; /* Transparent color for the thumb */
+    border-radius: 5px; /* Border radius of the thumb */
+}
+.scrollablebox-container {
+    overflow-y: auto;
+    height: 90%;
+    width: 100%;
+}
+
+.scrollablebox-container ul {
+    list-style-type: none;
+}
+
+.scrollablebox-container li {
+    max-width: 65vw;
+    line-height: 1.5;
+    padding: 1vh;
+}

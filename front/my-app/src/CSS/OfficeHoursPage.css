@@ -1,0 +1,49 @@
+.office-hours-outer-container {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.office-hours-title {
+    margin-top: 30px;;
+}
+
+.office-hours-output-box {
+border: 3px solid #F18200;
+border-radius: 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+width: 75vw;
+height: 60vh;
+overflow: hidden;
+background-image: url('../assets/mascot_1.png');
+background-repeat: no-repeat;
+background-position: right bottom;
+background-position: calc(100% - 20px) calc(100% - 20px);
+}
+.office-hours-input-box {
+    margin-top: 20px;
+}
+::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+.office-hours-input-box{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    border: 3px solid #F18200;
+    width: 75vw;
+    height: 8vh;
+}
+
+.office-hours-input-box p {
+    margin-bottom: 6vh;
+    color:#F18200;
+}
+.office-hours-input-box button {
+    width: 30px;
+    text-align: center;
+}

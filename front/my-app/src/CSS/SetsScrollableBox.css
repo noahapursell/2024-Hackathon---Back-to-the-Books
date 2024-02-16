@@ -1,0 +1,10 @@
+.study-sets {
+    overflow-y: auto;
+    max-height: 60%;
+
+    li {
+        list-style: none;
+        line-height: 2;
+        color: #F1BC00;
+    }
+}

@@ -1,0 +1,207 @@
+.dashboard-redirect-study {
+    background: linear-gradient(#F1BC00, #F18200);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 15vw;
+}
+
+.dashboard-redirect-study p {
+    font-size: 2vw;
+    color: #090C19;
+    margin-top: 0vw;
+    margin-left: -7vw;
+}
+.dashboard-redirect-study img {
+    margin-bottom: -4vw;
+    margin-left: 8vw;
+    margin-top: -5vw;
+}
+.dashboard-redirect-study:hover {
+    transform: translateY(-5px) translateX(-5px);
+    box-shadow:
+        7px 7px 0px 0px #B26912;
+    border-radius: 10px;
+}
+
+.dashboard-redirect-officehours {
+    background: linear-gradient(#F1BC00, #F18200);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    height: 15vw;
+}
+.dashboard-redirect-officehours p {
+    font-size: 30px;
+    color: #090C19;
+    margin-top: -35px;
+    margin-right: 20px;
+}
+.dashboard-redirect-officehours img {
+    margin-bottom: -45px;
+}
+.dashboard-redirect-officehours:hover {
+    transform: translateY(-5px) translateX(-5px);
+    box-shadow:
+        7px 7px 0px 0px #B26912;
+    border-radius: 10px;
+}
+
+
+.dashboard-title {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2vw;
+    margin-left: 8vw;
+    margin-right: 8vw; 
+}
+.dashboard-title>* {
+    flex: 1;
+}
+.dashboard-title-name  {
+    color: #F1BC00;
+    text-align: start;
+}
+.dashboard-title-website-name {
+    text-align: center;
+}
+.logout-button {
+    text-align: end;
+}
+button {
+    border-radius: 10px;
+    width: 8vw;
+    padding: 8px;
+    font-size: 1vw;
+    transition: transform 0.3s, box-shadow 0.3s;
+    cursor: pointer;
+}
+button:hover {
+    transform: translateY(-2.5px) translateX(-2.5px);
+    box-shadow:
+        5px 5px 0px 0px #B26912;
+    border-radius: 10px;
+}
+
+.leaderboard {
+    border: 1px solid #F18200;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+    width: 20vw;
+    height: 15vw;
+}
+
+.leaderboard-title{
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.stats {
+    display: flex;
+    flex-direction: row;
+    font-size: 12px;
+    justify-content: space-around;
+    width: 100%;
+}
+.scores {
+    width: 100%;
+    overflow-y: auto;
+}
+
+
+
+.score-row {
+    display: flex;
+    font-size: 12px;
+    width: 100%;
+    justify-content: space-around;
+
+    p{
+        flex: 1;
+        padding: 0 20px;
+        text-align: center;
+        color: #F1BC00;
+    }
+}
+
+.loading {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh
+}
+
+
+.dashboard-redirect-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 2vw;
+    margin-left: 8vw;
+    margin-right: 8vw;
+}
+
+.dashboard-calendar-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-between; */
+}
+.dashboard-calendar-title {
+
+    margin-top: 6vh;
+    h1 {
+        font-size: 30px;
+        margin-bottom: 3vh;
+    }
+}
+
+.dashboard-calendar-days-row{
+    display: flex;
+    flex-direction: row;
+    align-items: top;
+}
+
+.dashboard-calendar-days-row p{
+    /* padding-right: 6vw;
+    padding-left: 6vw; */
+    color: #F1BC00;
+    font-size: 2vh;
+}
+
+.calendar-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1;
+    padding: 0 15px;
+}
+
+.dashboard-link {
+    margin: 0.5vh;
+    text-decoration: none; 
+    color: #F1BC00;
+    font-size: 0.6vw;
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+.dashboard-link div:hover {
+    transition: transform 0.2s;
+    transform: translateY(-2.5px) translateX(-2.5px);
+}

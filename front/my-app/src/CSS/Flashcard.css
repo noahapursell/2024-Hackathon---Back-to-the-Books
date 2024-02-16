@@ -1,0 +1,15 @@
+.flashcard{
+    background: linear-gradient(#F1BC00, #F18200);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 43rem;
+    padding: 10px 20px;
+}
+
+.flashcard p {
+    color: #090C19;
+}

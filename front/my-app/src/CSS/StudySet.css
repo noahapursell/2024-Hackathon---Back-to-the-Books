@@ -1,0 +1,69 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+    text-align: center;
+}
+
+.answer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border: solid;
+    border-color: #F1BC00;
+    margin-top: 30px;
+    width: 43rem;
+    border-radius: 10px;
+    color: #F1BC00;
+    padding-left: 15px;
+    padding-right: 15px;
+
+}
+
+.answer textarea {
+    flex-grow: 1; /* Allows the input to grow and fill the available space */
+    margin: 5px 10px; /* Optional: Adds some space between the input and the <p> tags */
+    resize: vertical; /* Allows the textarea to be resized vertically only */
+    overflow-y: auto; /* Adds a vertical scrollbar when the content overflows */  
+    background-color: transparent;
+    border: none;
+    outline: none;
+    color: #F1BC00;
+}
+
+.answer p {
+    height: 80%;
+}
+
+.submit_arrow {
+    width: 30px;
+    text-align: center;
+}
+
+.earned-points{
+    color: #F1BC00;
+}
+
+.back-to-dashboard{
+    background: linear-gradient(#F1BC00, #F18200);
+    transition: transform 0.3s, box-shadow 0.3s;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15rem;
+    margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.back-to-dashboard p {
+    color: #090C19;
+    font-size: 13px;
+}

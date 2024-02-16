@@ -1,0 +1,11 @@
+.scrollable-input {
+    width: 70vw;
+    height: 8vh;
+    overflow-y: auto;
+    resize: none;
+    background-color: transparent;
+    outline: none;
+    border: none;
+    padding-top: 2vh;
+    color: #F18200;
+}
